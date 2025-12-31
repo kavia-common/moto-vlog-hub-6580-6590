@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/moto-vlog-hub-6580-6590/all_around_backend"
+}
